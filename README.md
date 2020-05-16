@@ -19,6 +19,9 @@ To deploy YOUR version of **Azure Url Shortener** you could fork this repo, but 
 
 [![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/?WT.mc_id=urlshortener-github-frbouche#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FFBoucher%2FAzUrlShortener%2Fmaster%2Fdeployment%2FazureDeploy.json)
 
+[![Deploy to Azure](https://azuredeploy.net/deploybutton.png)](https://azuredeploy.net/)
+
+
 To have all details and alternative deployment refer to the [Deployment Details](azFunctions-deployment.md) page.
 
 #### Post Deployment Configuration
